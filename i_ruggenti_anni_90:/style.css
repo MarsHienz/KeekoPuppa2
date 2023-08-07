@@ -1,0 +1,173 @@
+body{
+
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    background-color: #FDFFEE;
+    margin-top: 15px;
+    margin-left: 10%;
+    margin-right: 10%;
+
+    }
+
+
+H1{
+
+    font-size: 24px;
+    font-family: "Trebuchet MS", verdana, arial, helvetica, sans-serif;
+    padding-bottom: 20px;
+
+    }
+    
+
+.lingue{
+   
+    text-align: right;
+    margin: 12px 0px 12px 0px;
+    
+    }
+
+.logo{
+
+    width: 50px;
+    height: 49px;
+    border: 0px;
+    display: flex;
+    
+    }
+
+.logo2{
+
+    width: 50px;
+    height: 49px;
+    border: 0px;
+    display: flex;
+    
+    }
+
+.titolo{
+
+    font-size: x-large;
+    }
+
+/* Stile generale per la barra di ricerca */
+.search-bar {
+
+    display: flex;
+    align-items: center;
+    float: right;
+    font-weight: bold;
+    font-size: 12px;
+   
+    }
+  
+  /* Stile per l'input di ricerca */
+
+.search-bar input {
+    
+    border: 10;
+    height: 13px;
+    margin-left: 10px;
+    margin-top: 0em;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    font-family: system-ui;
+    font-variant-caps: normal;
+    color: initial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+
+    }
+  
+.index{
+
+    width: 100%;
+    display: flex;
+    border-collapse: separate;
+    justify-content: center;
+    align-items: center;
+        
+    }
+
+ /* buttons */
+.linkbut {
+
+    padding: 1px 3px 1px 3px;
+    color : #225566;  
+    background: white; 
+    text-decoration: none;
+    border: 1px solid #99bec6;
+
+    }
+    
+
+.linkbut:hover{
+
+    padding: 1px 3px 1px 3px;
+    color : #000000; 
+    background: #C7D0D9; 
+    text-decoration: none;
+    border: 1px solid #436876;
+
+    }
+
+
+    table.index{
+
+    width: 100%;
+    font-size: 14px;
+    display: table;
+    border-collapse: separate;
+    -webkit-border-horizontal-spacing: 2px;
+    -webkit-border-vertical-spacing: 2px;
+    border-top-color: gray;
+        
+    }
+
+  
+li{
+
+    list-style-type: none;
+    
+    }
+
+a{
+
+    text-decoration: none;
+    
+}
+
+a:hover{
+
+    text-decoration: underline;
+    color: #990000;
+
+}
+
+.voci{
+
+    margin: 20px 0px;
+
+    }
+
+
+.listafinale{
+
+    font-size: small;
+    }
+
+.background{
+
+    font-size: small;
+    }
+
+p.background {
+
+    margin-top: 50px;
+
+    }
